@@ -12,7 +12,7 @@ you dont need to make separate full HTML files for your posts! just write, add, 
 
 *(this assumes you use a static website host like neocities or nekoweb, github pages, etc. this is probably overengineered if you're using like php or an automatic blogging system that you made for yourself because you love flexing your time on node.js)*
 
-download the files in a zip and upload the files (you can remove "LICENSE" and this "README.md" if you want) and you'll find some stuff!
+download the files in a zip (code -> download ZIP) and upload the files (you can remove "LICENSE" and this "README.md" if you want) and you'll find some stuff!
 the structure goes like this (assuming if you deleted the "LICENSE" and the "README.md" since thats just random kilobytes of space):
 
 (root)/   
