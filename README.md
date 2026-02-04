@@ -68,8 +68,8 @@ thats it!
 
 ### thank you!
 
-mind leaving a note to my guestbook? https://auth.atabook.org
-and play my web game and read the blog, where the system originated from! https://authsrng.neocities.org
-and visit my website... https://authguy.nekoweb.org
+mind leaving a note to my guestbook? https://auth.atabook.org   
+and play my web game and read the blog, where the system originated from! https://authsrng.neocities.org   
+and visit my website... https://authguy.nekoweb.org   
 
 goodbye ❤️
