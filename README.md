@@ -29,7 +29,7 @@ now, when making posts, all you have to touch is 2 files. {number}.html (inside 
 
 lets make a starter post, shall we? lets edit 001.html. you'll see nothing but emptiness in the file. you can go wild! you dont need to type `<!DOCTYPE HTML>` or `<head>` or `<body>`! thats overrated.
 
-you can make your post with just raw HTML, now, for documentation purposes, copy this code and paste it in 001.html.
+you can make your post with just raw HTML. now, for documentation purposes, copy this code and paste it in 001.html.
 
 ```html
 <h1>Hello!</h1>
@@ -46,7 +46,7 @@ inside posts.json you'll see:
 ]
 ```
 just change the title to whatever you want and the date on whatever the date is! 
-now, save the file and go in your site. go to blog.html and you'll see your epic post you just made automatically!
+now, save the file and go in your site. go to blog.html and the post you just made is there automatically!
 
 to make more posts, all you have to do is add a new file, like after 001.html you can do 002.html and make the contents like:
 
