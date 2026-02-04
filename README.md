@@ -13,13 +13,14 @@ its easy to set up and use, and is very simple!
 download the files in a zip and upload the files (you can remove "LICENSE" if you want). you'll find some stuff.
 the structure go like this:
 
-blog/ 
-├── posts/   
-│   └── 001.html -- inside blog/posts
-├── blog.html -- inside blog/
-└── post.html -- inside blog/
-posts.json -- at the root
-
+(root)/   
+  ├── posts.json   
+  └── blog/   
+      ├── posts/   
+      │   └── 001.html   
+      ├── blog.html   
+      └── post.html   
+      
 thats it! you set it up! its just uploading some files. DO NOT MOVE ANY FILES as it will probably break the whole system..
 
 ### how to use
