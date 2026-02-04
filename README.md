@@ -81,6 +81,7 @@ try these:
 
 - wait for like 2 hours for cache to clear up. sometimes clearing your browser cache doesnt work because the host is actively serving a cached broken copy of your page
 - check the "network" tab in devtools. is there anything suspiciously off?
+- check if CORS is actively stopping you from chasing your dreams
 
 if none of these work, email me at [auth.24d@proton.me](mailto:auth.24d@proton.me)
 
