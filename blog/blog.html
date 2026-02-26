@@ -62,6 +62,8 @@
   <a class=".back-link">back</a>
   </center>
 
+  <br>
+  
   <center>
   <a class="small" href="https://github.com/auth1ery/fantastic-octo-waffle/">made with fow (octo)</a> <!-- delete this if you want... i encourage you to keep it though pweaseeeeeeeeeee -->
   </center>
@@ -76,7 +78,7 @@
         posts.forEach(p => {
           const el = document.createElement("p");
           el.innerHTML = `
-            <a href="post-s4f5.html?id=${p.id}">${p.title}</a>
+            <a href="post.html?id=${p.id}">${p.title}</a>
             <span class="small"> — ${p.date}</span>
           `;
           list.appendChild(el);
